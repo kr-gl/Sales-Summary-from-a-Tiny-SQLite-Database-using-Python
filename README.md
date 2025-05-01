@@ -17,7 +17,7 @@ The main objective of this project is to:
 - **matplotlib** (for data visualization)
 
 ### Files
-- `create_sales_data.py`: Creates the SQLite database `sales_data.db` and populates it with sample sales data.
+- `create_sales_data.py`: Creates the SQLite database sales_data.db and populates it with sample sales data.
 - `sales_data.db`: Script to query and visualize sales data.
 - `sales_summary.py`: Connects to the database, runs SQL queries, displays results, and plots a revenue bar chart.
 - `sales_chart.png`: Output image displaying a bar chart showing revenue by product.
